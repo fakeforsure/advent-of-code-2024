@@ -1,5 +1,6 @@
 # Advent of Code 2024
-Here, I will upload my results for the daily advent of code! It is possible that I miss some days
+Here, I will upload my results for the daily advent of code! It is possible that I miss some days <br>
+*Please note this is my first time using GitHub so I will learn as I go; watch me learn!*
 
 ```py
 # Advent Code --- 2024

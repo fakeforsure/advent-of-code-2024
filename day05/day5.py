@@ -56,10 +56,10 @@ def will_it_work(x):
                         lil_bit = x.index(j)
                         x[lil_bit], x[i] = rule, j
                         new_rule = rule_met(x)
-                        if new_rule != 0:
-                            return new_rule
-                        else:
+                        if new_rule == 0:
                             break
+                        else:
+                            return new_rule
 
 # Find the sum of the mid number of the correct updates that follow the rule
 result2 = 0
